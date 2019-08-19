@@ -8,9 +8,6 @@ Grupo destinado a organização das corridas. https://www.n7kart.com.br/
   3. Quem está fora do grupo.
 - Será desativado do grupo quem não participar de pelo menos uma corrida no período de 2 meses.
 
-## Campeonato: 
-Jul/2019 - Dez/2019
-
 ## Tabela de Pontuação:
 01º COLOCADO: 14 PONTOS  
 02º COLOCADO: 12 PONTOS  
@@ -35,3 +32,8 @@ O piloto que não participar ou for desclassificado de alguma corrida (bandeira 
 3. Maior número de terceiros-lugares;
 4. Melhor colocação na última etapa;
 
+## Campeonato: 
+__2/2019:__ Jul/2019 - Dez/2019
+
+## Classificação:
+__Campeonato 2/2019:__ <https://docs.google.com/spreadsheets/d/144DpgvfjJ1apXSDM11k3T_-E5aW24WR1ib7Sar75vD4/edit?usp=sharing>
