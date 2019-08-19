@@ -2,7 +2,10 @@
 Grupo destinado a organização das corridas. https://www.n7kart.com.br/
 
 ## Regras:
-- Ordem de prioridade para reserva de vaga: 1º quem participou da última corrida, 2º quem está no grupo, 3º de fora do grupo.
+- Ordem de prioridade para reserva de vaga: 
+  1. Quem participou da última corrida;
+  2. Quem está no grupo;
+  3. Quem está fora do grupo.
 - Será desativado do grupo quem não participar de pelo menos uma corrida no período de 2 meses.
 
 ## Campeonato: 
