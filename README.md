@@ -39,9 +39,9 @@ __2/2019:__ Jul/2019 - Dez/2019
 __Campeonato 2/2019:__ <https://docs.google.com/spreadsheets/d/144DpgvfjJ1apXSDM11k3T_-E5aW24WR1ib7Sar75vD4/edit?usp=sharing>
 
 ## Etapas:
-__20/07/2019:__ N7 Iguatemi
-__17/08/2019:__ N7 Iguatemi
-__14/09/2019:__ N7 Iguatemi
-__12/10/2019:__ ???
-__09/11/2019:__ ???
-__07/12/2019:__ ???
+__20/07/2019:__ N7 Iguatemi.  
+__17/08/2019:__ N7 Iguatemi.  
+__14/09/2019:__ N7 Iguatemi.  
+__12/10/2019:__ ???  
+__09/11/2019:__ ???  
+__07/12/2019:__ ???  
