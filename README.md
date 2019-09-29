@@ -42,6 +42,6 @@ __Campeonato 2/2019:__ <https://docs.google.com/spreadsheets/d/144DpgvfjJ1apXSDM
 __20/07/2019:__ N7 Iguatemi.  
 __17/08/2019:__ N7 Iguatemi.  
 __14/09/2019:__ N7 Iguatemi.  
-__12/10/2019:__ ???  
+__19/10/2019:__ Bourbon Wallig  
 __09/11/2019:__ ???  
 __07/12/2019:__ ???  
