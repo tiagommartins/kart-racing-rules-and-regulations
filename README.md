@@ -1,5 +1,8 @@
 # KART Racing
-Grupo destinado a organização das corridas. https://www.n7kart.com.br/
+Grupo destinado a organização das corridas. 
+
+https://www.n7kart.com.br/
+https://www.topspeedkart.com.br/
 
 ## Regras:
 - Ordem de prioridade para reserva de vaga: 
