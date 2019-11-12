@@ -9,7 +9,9 @@ https://www.topspeedkart.com.br/
   1. Quem participou da última corrida;
   2. Quem está no grupo;
   3. Quem está fora do grupo.
-- Será desativado do grupo quem não participar de pelo menos uma corrida no período de 2 meses.
+- Regra da advertência -> Não ir ou cancelar perto do evento onde acarreta a impossibilidade de completar o grid.
+- Será expulso do grupo quem receber 2 advertências
+- A advertência ser absolvida após a normalização da frequência em corridas.
 
 ## Tabela de Pontuação:
 01º COLOCADO: 14 PONTOS  
