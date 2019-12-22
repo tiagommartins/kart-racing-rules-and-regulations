@@ -50,4 +50,4 @@ __17/08/2019:__ N7 Iguatemi.
 __14/09/2019:__ N7 Iguatemi.  
 __19/10/2019:__ Bourbon Wallig  
 __09/11/2019:__ Bourbon Wallig  
-__??/12/2019:__ Velopark  
+__14/12/2019:__ Velopark  
