@@ -40,14 +40,15 @@ O piloto que não participar ou for desclassificado de alguma corrida (bandeira 
 
 ## Campeonato: 
 __2/2019:__ Jul/2019 - Dez/2019
+__1/2020:__ Mar/2020 - Jul/2020
 
 ## Classificação:
-__Campeonato 2/2019:__ <https://docs.google.com/spreadsheets/d/144DpgvfjJ1apXSDM11k3T_-E5aW24WR1ib7Sar75vD4/edit?usp=sharing>
+__Campeonato:__ <https://docs.google.com/spreadsheets/d/144DpgvfjJ1apXSDM11k3T_-E5aW24WR1ib7Sar75vD4/edit?usp=sharing>
 
 ## Etapas:
-__20/07/2019:__ N7 Iguatemi.  
-__17/08/2019:__ N7 Iguatemi.  
-__14/09/2019:__ N7 Iguatemi.  
-__19/10/2019:__ Bourbon Wallig  
-__09/11/2019:__ Bourbon Wallig  
-__14/12/2019:__ Velopark  
+__07/03/2020:__ N7 Iguatemi  
+__04/04/2020:__ Bourbon Wallig  
+__02/05/2020:__ N7 Iguatemi  
+__30/05/2020:__ Bourbon Wallig  
+__27/06/2020:__ N7 Iguatemi  
+__25/07/2020:__ Velopark  
