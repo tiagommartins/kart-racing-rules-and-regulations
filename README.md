@@ -39,7 +39,7 @@ O piloto que não participar ou for desclassificado de alguma corrida (bandeira 
 4. Melhor colocação na última etapa;
 
 ## Campeonato: 
-__2/2019:__ Jul/2019 - Dez/2019
+__2/2019:__ Jul/2019 - Dez/2019  
 __1/2020:__ Mar/2020 - Jul/2020
 
 ## Classificação:
